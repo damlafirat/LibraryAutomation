@@ -1,0 +1,12 @@
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\damla\Desktop\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\damla\Desktop\Projects_C#\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
